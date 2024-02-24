@@ -1,0 +1,2 @@
+module funcional_function {
+}
